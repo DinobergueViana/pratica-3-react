@@ -1,13 +1,10 @@
+import Body from './components/Body'
 import './App.css';
 
 function App() {
-    return ( <
-        div className = "App" >
-        <
-        header className = "App-header" > <
-        /header> < /
-        div >
-    );
+    return (
+        <Body/>
+    )
 }
 
 export default App;
