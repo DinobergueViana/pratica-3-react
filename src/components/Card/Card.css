@@ -1,0 +1,9 @@
+.Card {
+    padding: 1%;
+    margin: 2%;
+    border: solid 1px black;
+}
+
+.Card img {
+    width: 15vw;
+}
