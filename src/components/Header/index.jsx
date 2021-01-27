@@ -3,7 +3,7 @@ import './Header.css'
 const Header = () => {
   return (
     <header>
-      <ul>
+      <ul className="header-menu">
         <li>Produtos</li>
         <li>Carrinho</li>
       </ul>

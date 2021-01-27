@@ -1,0 +1,8 @@
+.header-menu {
+  text-align: center;
+}
+
+.header-menu li {
+  display: inline;
+  margin: 0 10px;
+}
