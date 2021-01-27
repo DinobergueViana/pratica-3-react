@@ -4,11 +4,9 @@ function App() {
     return ( <
         div className = "App" >
         <
-        header className = "App-header" >
-        <
-        div > < /div> <
-        /header> <
-        /div>
+        header className = "App-header" > <
+        /header> < /
+        div >
     );
 }
 
