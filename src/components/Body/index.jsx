@@ -24,10 +24,15 @@ const Body = () => {
     }
     console.log(cards)
     return cards
+    return (
 
-  }
+        <section className="App-body">
+            {getCards()}
 
-  return <section className="App-body">{getCards()}</section>;
-};
+        </section>
 
-export default Body;
+    )
+
+}
+
+export default Body
